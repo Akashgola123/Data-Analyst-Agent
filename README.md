@@ -57,7 +57,7 @@ Before you begin, ensure you have the following installed:
 
 3.  **Install the required dependencies:**
     ```bash
-    pip install -r requirements.txt
+    pip install -r code.txt
     ```
 
 ---
@@ -76,7 +76,7 @@ This is the primary method for the assignment submission.
 
 2.  **Run the Streamlit application:**
     ```bash
-    streamlit run app.py
+    streamlit run Main_UI.py
     ```
 
 3.  **Use the App:**
@@ -106,7 +106,10 @@ This method is for local development and testing.
     ```bash
     streamlit run app.py
     ```
-
+    
 5.  **Use the App:**
     -   The application will now use your local LLM. No API key is required.
     -   Upload a document and start your analysis.
+  
+6.  **Example** :- ![Screenshot 2025-06-13 125202](https://github.com/user-attachments/assets/f65f8c22-4d78-4d7d-9c49-4d703793f944)
+
