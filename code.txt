@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain_openai
+langchain_experimental
+pandas
+openpyxl
+python-docx
+pymupdf
+pillow
+pytesseract
+matplotlib
+seaborn
+langchain_ollama
